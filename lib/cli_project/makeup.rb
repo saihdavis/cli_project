@@ -1,0 +1,3 @@
+class Makeup
+
+end
