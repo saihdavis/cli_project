@@ -1,3 +1,5 @@
+
+
 class Api
   def self.get_brand(brand)
     url = "http://makeup-api.herokuapp.com/api/v1/products.json?brand=#{brand}"
