@@ -5,8 +5,8 @@ class Cli
     puts " "
     puts "Pick a makeup brand!"
     puts " "
-    @variable = gets.strip.downcase
-    Api.get_brand(@variable)
+    @brand = gets.strip.downcase
+    Api.get_brand(@brand)
     
   end
 end
