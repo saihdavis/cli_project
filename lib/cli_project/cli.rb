@@ -1,7 +1,7 @@
 class Cli
   def run
     puts " "
-    puts "Welcome"
+    puts "Welcome to our in-store app!"
     puts " "
     puts "Pick a makeup brand!"
     puts " "
@@ -10,3 +10,18 @@ class Cli
     
   end
 end
+
+# "What product(s) were you looking for?"
+
+# selecting a list of makeup tags 
+
+
+
+
+
+(END APP STRING) 
+=begin  Here is a list of your products along with the prices.
+
+If you are finished, you can close this app and head to the registers.
+Thanks again for using our in-store app!
+=end

@@ -4,7 +4,7 @@ class Makeup
 
   @@all = []
   
-  def initialize(brand, product_type)
+  def initialize(brand:, product_type:)
     @brand = brand
     @product_type = product_type
 
